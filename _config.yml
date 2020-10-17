@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Shiv Shankar # your name (or website title) here
+logo: "/images/profile_picture.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi, Im Shiv! I am currently an undergraduate at UC Berkeley pursuing degrees in Electrical Engineering & Computer Science and Data Science
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/shiv-shankar-991735196/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
