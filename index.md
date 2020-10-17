@@ -4,7 +4,7 @@
 
 ### Projects
 
-[R-Tree](https://github.com/ShivShankar1234/r-tree)
+[R-Tree](https://github.com/ShivShankar1234/r-tree/tree/master/src/main)
 <img src="images/r_tree_picture.png?raw=true"/>
 
 ---
