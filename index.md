@@ -13,7 +13,7 @@
 
 ---
 [AlexNet](http://example.com/)
-<img src="alex_net_picture.png?raw=true"/>
+<img src="images/alex_net_picture.png?raw=true"/>
 
 ---
 
