@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[R-Tree](/sample_page)
+[R-Tree](https://github.com/ShivShankar1234/r-tree)
 <img src="images/r_tree_picture.png?raw=true"/>
 
 ---
-[Jazz Generator](/pdf/sample_presentation.pdf)
+[Jazz Generator](http://example.com/)
 <img src="images/music_generator_picture.jpg?raw=true"/>
 
 ---
-[AlexNet](http://example.com/)
+[AlexNet](https://github.com/ShivShankar1234/AlexNet/tree/master/src)
 <img src="images/alex_net_picture.png?raw=true"/>
 
 ---
