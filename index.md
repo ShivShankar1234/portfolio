@@ -8,7 +8,7 @@
 <img src="images/r_tree_picture.png?raw=true"/>
 
 ---
-[Jazz Generator](http://example.com/)
+[Jazz Generator](https://github.com/ShivShankar1234/jazzCNN)
 <img src="images/music_generator_picture.jpg?raw=true"/>
 
 ---
