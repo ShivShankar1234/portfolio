@@ -21,7 +21,7 @@
 
 ---
 [Steiner Tree TSP Approximation](https://github.com/ShivShankar1234/steiner_tree_tsp)
-<img src="images/text-search.png?raw=true"/>
+<img src="images/graph_pic1.png?raw=true"/>
 
 ---
 <!--
