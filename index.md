@@ -24,6 +24,11 @@
 <img src="images/graph_pic1.png?raw=true"/>
 
 ---
+---
+[Fake News Dataset Collector](https://github.com/ShivShankar1234/fake_news_net)
+<img src="images/graph_pic1.png?raw=true"/>
+
+---
 <!--
 ### Category Name 2
 
