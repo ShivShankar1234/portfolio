@@ -25,7 +25,7 @@
 
 ---
 ---
-[Fake News Dataset Collector](https://github.com/ShivShankar1234/fake_news_net)
+[Fake News Dataset Generator](https://github.com/ShivShankar1234/fake_news_net)
 <img src="images/fake_news.jpg?raw=true"/>
 
 ---
